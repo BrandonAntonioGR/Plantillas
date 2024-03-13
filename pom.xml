@@ -104,7 +104,6 @@
                     </descriptorRefs>           
                     <archive>
                         <manifest>
-
                             <mainClass>com.digitalfinance.plantilla.Plantilla</mainClass>
                         </manifest>
                     </archive>
